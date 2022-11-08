@@ -8,8 +8,4 @@ Kento-Izumi2/Kento-Izumi2 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-   <tr><td>      <img src="kaguya.gif"/>
-   </td></tr>
-   </table>
-</div>
-
+ 
