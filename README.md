@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![Snake animation](https://github.com/Kento-Izumi2/Kento-Izumi2/blob/output/github-contribution-grid-snake.svg)
+
